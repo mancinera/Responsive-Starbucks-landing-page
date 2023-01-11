@@ -1,2 +1,2 @@
 # Responsive-Starbucks-landing-page
- Página do Starbucks feita para prática
+ Página do Starbucks feito para prática
